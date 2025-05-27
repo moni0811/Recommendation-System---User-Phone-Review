@@ -83,4 +83,4 @@ The project workflow includes:
    
 3. Run analysis script
    ```bash
-   python phone_recommendation_system.py
+   python Phone_Recommendation_System.ipynb
